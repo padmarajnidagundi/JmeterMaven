@@ -1,12 +1,13 @@
-# paf_jmeter
-SQS Performance Automation Framework
+# EveryHair Perfromace Test
+JMeter Perfromace Automation Framework for EveryHair By Padmaraj Nidagundi ( Eptron )
 
-You can execute your plugin by using Maven. Go to your project directory and run the following command in the command line:
+You can execute your plugin by using Maven. \
+Go to your project directory and run the following command in the command line:
 
-Steps:
+How to Run Steps:
 
-1. Place your JMX file inside \src\test\jmeter folder
+Step 1. Place your JMX test case inside the \src\test\jmeter folder
 
-2. Run below command from terminal
+Step 2. Run below command from terminal
 
 mvn clean verify
