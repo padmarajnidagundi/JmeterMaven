@@ -11,3 +11,4 @@ Step 1. Place your JMX test case inside the \src\test\jmeter folder
 Step 2. Run below command from terminal
 
 mvn clean verify
+//
