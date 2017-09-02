@@ -1,7 +1,7 @@
-# EveryHair Perfromace Test
-JMeter Perfromace Automation Framework for EveryHair By Padmaraj Nidagundi ( Eptron )
+# Perfromace Test - JMeter Maven
 
-You can execute your plugin by using Maven. \
+JMeter Maven Perfromace Automation
+You can execute your plugin by using Maven.
 Go to your project directory and run the following command in the command line:
 
 How to Run Steps:
